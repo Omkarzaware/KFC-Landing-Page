@@ -3,16 +3,17 @@
 Here are some of the pictures of the websites:-
 
 ## Landing page
-![image](https://github.com/Omkarzaware/KFC-Landing-page/assets/129882875/3c856a27-a9fe-432c-8aea-3ea8715fa45c)
+![image](https://github.com/user-attachments/assets/78eac08c-1c1e-4568-ba2b-1a56687e660e)
 
-### We can use the 'next' button (placed at the bottom right of the page) to shift between images.
-![Screenshot (14)](https://github.com/Omkarzaware/KFC-Landing-page/assets/129882875/6caa10d8-f3ce-40ae-b2a5-97b94278865b)
+
 
 ## Responsive page
-![Screenshot (16)](https://github.com/Omkarzaware/KFC-Landing-page/assets/129882875/71cc8f5c-43d5-42af-a12e-d1889b27d570)
+![image](https://github.com/user-attachments/assets/89e25e82-9ceb-4cb5-abb5-7d381fa4649a)
+
 
 ## Menu page
-![Screenshot (17)](https://github.com/Omkarzaware/KFC-Landing-page/assets/129882875/89d775a0-ad8d-4529-898c-0357aa971d54)
+![image](https://github.com/user-attachments/assets/4a58f54c-bde6-4887-8ebf-f03cccfc8d7e)
+
 
 
 
